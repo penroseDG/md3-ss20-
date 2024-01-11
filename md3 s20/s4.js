@@ -1,0 +1,1 @@
+prompt=confirm(" bé đủ 18 tuổi chưa ? ")
